@@ -6,7 +6,6 @@ body{
     background-repeat:no-repeat;
     background-size:cover;
     margin:auto;
-    box-shadow:100;
 }
 
 #main{
@@ -32,7 +31,6 @@ body{
 #main h2{
     font-size:40px;
     padding:10px 0 20px 0;
-
 }
 
 #main span{
