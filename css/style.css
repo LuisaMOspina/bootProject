@@ -6,6 +6,7 @@ body{
     background-repeat:no-repeat;
     background-size:cover;
     margin:auto;
+    box-shadow:100;
 }
 
 #main{
@@ -72,4 +73,18 @@ body{
 
 .row h5{
     color:#e2e1e1;
+}
+
+.row2{
+    width:100%;
+    height:auto;
+    padding:30px;
+    background-color:#f5f5f5;
+    color:black;
+    display:flex;
+    font-weight:700;
+    font-size:18px;
+    position:absolute;
+    bottom:0px;
+    text-align:center;
 }
